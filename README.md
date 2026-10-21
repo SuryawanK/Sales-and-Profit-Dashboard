@@ -60,3 +60,8 @@
   4. Audit the selling prices, products costs, and discounts for the tables category.
   5. Prepare stock and promotional strategis well in advance for high-sales periods
   6. Prioritize the growth of categories with strong profitability.
+
+
+
+# Dashboard
+<img width="873" height="539" alt="Sales and Profit Dashboard" src="https://github.com/user-attachments/assets/39d0bcbe-0582-4c22-a3e6-1d957eb91081" />
